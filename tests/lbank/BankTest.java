@@ -1,7 +1,6 @@
 package lbank;
 
 
-
 public class BankTest {
 		
 	//@Test
