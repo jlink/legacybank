@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
-    <option name="DEFAULT_COMPILER" value="Javac" />
-    <resourceExtensions />
     <wildcardResourcePatterns>
       <entry name="!?*.java" />
       <entry name="!?*.form" />
@@ -13,37 +11,58 @@
       <entry name="!?*.kt" />
       <entry name="!?*.clj" />
     </wildcardResourcePatterns>
-    <annotationProcessing>
-      <profile default="true" name="Default" enabled="false">
-        <processorPath useClasspath="true" />
-      </profile>
-    </annotationProcessing>
   </component>
   <component name="CopyrightManager" default="" />
   <component name="DependencyValidationManager">
     <option name="SKIP_IMPORT_STATEMENTS" value="false" />
   </component>
-  <component name="EclipseCodeFormatter">
-    <option name="defaultSettings" value="true" />
-    <option name="formatter" value="ECLIPSE" />
-    <option name="id" value="1449146194104" />
-    <option name="name" value="default" />
-    <option name="pathToConfigFileJava" value="$PROJECT_DIR$/../junit-lambda/src/eclipse/junit-lambda-eclipse-formatter-settings.xml" />
-    <option name="selectedJavaProfile" value="JUnit Lambda" />
+  <component name="EclipseCodeFormatterProjectSettings">
+    <option name="selectedGlobalProfile">
+      <Settings>
+        <option name="formatter" value="ECLIPSE" />
+        <option name="id" value="1449146194104" />
+        <option name="name" value="default" />
+        <option name="pathToConfigFileJava" value="$PROJECT_DIR$/../wwi-agiledeveloper/scoreboard/eap_formatter.xml" />
+        <option name="selectedJavaProfile" value="EAP" />
+      </Settings>
+    </option>
   </component>
   <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
     <file url="PROJECT" charset="UTF-8" />
   </component>
-  <component name="EntryPointsManager">
-    <entry_points version="2.0" />
-  </component>
   <component name="IdProvider" IDEtalkID="E243D68975F6C52731480BAE895DE9D5" />
+  <component name="InspectionProjectProfileManager">
+    <profile version="1.0">
+      <option name="myName" value="Project Default" />
+    </profile>
+    <version value="1.0" />
+  </component>
+  <component name="ProjectCodeStyleSettingsManager">
+    <option name="PER_PROJECT_SETTINGS">
+      <value>
+        <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="1" />
+        <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="1" />
+        <codeStyleSettings language="Groovy">
+          <indentOptions>
+            <option name="USE_TAB_CHARACTER" value="true" />
+          </indentOptions>
+        </codeStyleSettings>
+        <codeStyleSettings language="JAVA">
+          <option name="RIGHT_MARGIN" value="120" />
+          <indentOptions>
+            <option name="USE_TAB_CHARACTER" value="true" />
+          </indentOptions>
+        </codeStyleSettings>
+      </value>
+    </option>
+    <option name="PREFERRED_PROJECT_CODE_STYLE" value="Default" />
+  </component>
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/LegacyBank.iml" filepath="$PROJECT_DIR$/LegacyBank.iml" />
     </modules>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" project-jdk-name="1.7" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" project-jdk-name="1.7" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
   <component name="VcsDirectoryMappings">
